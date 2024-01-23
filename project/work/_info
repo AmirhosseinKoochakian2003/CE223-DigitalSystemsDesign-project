@@ -1,0 +1,205 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\AMIRHOSSEIN\Desktop\implemention
+vCMP
+Z1 !s100 5<Ni]=DT`W:8UoUHJCEm=1
+Z2 IcR5V7iRgIDihLH8`:R@Kb1
+Z3 V;0VETV4>K<HVPmZK]72gh2
+Z4 dC:\Users\AMIRHOSSEIN\Desktop\proj
+Z5 w1687960293
+Z6 8C:/Users/AMIRHOSSEIN/Desktop/proj/LateralDistanceCalc.v
+Z7 FC:/Users/AMIRHOSSEIN/Desktop/proj/LateralDistanceCalc.v
+Z8 L0 359
+Z9 OV;L;10.1d;51
+r1
+31
+Z10 !s108 1687960920.561000
+Z11 !s107 C:/Users/AMIRHOSSEIN/Desktop/proj/LateralDistanceCalc.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/AMIRHOSSEIN/Desktop/proj/LateralDistanceCalc.v|
+Z13 o-work work -O0
+Z14 n@c@m@p
+!i10b 1
+!s85 0
+!s101 -O0
+vControlUnit
+Z15 !s100 gG7ZEB?CWIcAVV3CD>:]40
+Z16 I=gDL3Se887`0>EflNKL2d3
+Z17 VE<6FAI0igR0UJl^QhIh_l2
+R4
+R5
+R6
+R7
+Z18 L0 103
+R9
+r1
+31
+R10
+R11
+R12
+R13
+Z19 n@control@unit
+!i10b 1
+!s85 0
+!s101 -O0
+vFixedPointAdder
+Z20 !s100 NNhTaJ4ZB4Q>CS[z`7[=z1
+Z21 Ind1<T2hzW4R;;GbY1CN9i0
+Z22 VP8Hj?b@7mXZoCX>0iP3C12
+R4
+R5
+R6
+R7
+Z23 L0 278
+R9
+r1
+31
+R10
+R11
+R12
+R13
+Z24 n@fixed@point@adder
+!i10b 1
+!s85 0
+!s101 -O0
+vFixedPointMultiplier
+Z25 !s100 7<T@aDG0K;Q4A[4f<1d@g3
+Z26 IiCPh]f:Xff8Pk8Q6h_M]>3
+Z27 V3ZdQ?ezVKAK0gi4BQ1lZa3
+R4
+R5
+R6
+R7
+Z28 L0 286
+R9
+r1
+31
+R10
+R11
+R12
+R13
+Z29 n@fixed@point@multiplier
+!i10b 1
+!s85 0
+!s101 -O0
+vFourBitCounter
+Z30 !s100 agY`FNM:?Mf>7GCY=Pi8]2
+Z31 I1aLInB>N2ReQoLEXKAM=l0
+Z32 Ve16XkW0D7mI4G4KV==@SN3
+R4
+R5
+R6
+R7
+Z33 L0 340
+R9
+r1
+31
+R10
+R11
+R12
+R13
+Z34 n@four@bit@counter
+!i10b 1
+!s85 0
+!s101 -O0
+vLateralDistanceCalc
+Z35 !s100 C6iKN9RT9gk@]T1`AGPGV2
+Z36 IdV_jS]]UmBCm;0Cm`;cAd3
+Z37 V9>EAnQ?MXa]R_N`5`mN:00
+R4
+R5
+R6
+R7
+L0 1
+R9
+r1
+31
+R10
+R11
+R12
+R13
+Z38 n@lateral@distance@calc
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister
+Z39 !s100 IGfD38<iV2S@Gk2VQAIzi1
+Z40 IM::M5eYN<CihIXSIKbfZJ0
+Z41 VAl9^;:`<=@`daSgL:QWeH3
+R4
+R5
+R6
+R7
+Z42 L0 322
+R9
+r1
+31
+R10
+R11
+R12
+R13
+Z43 n@register
+!i10b 1
+!s85 0
+!s101 -O0
+vROM
+Z44 !s100 <cHUGcg2][0OEAP1:SSC51
+Z45 IZgP<89K`IK^c8nNQ]LXI72
+Z46 VMH^NIUGlh=i4;QiZ2FKE42
+R4
+R5
+R6
+R7
+L0 87
+R9
+r1
+31
+R10
+R11
+R12
+R13
+Z47 n@r@o@m
+!i10b 1
+!s85 0
+!s101 -O0
+vTB_LDC
+!i10b 1
+!s100 Tf8j3?Ln@cghPFbQ0RHn^2
+IM<Hkd^f^V8IQF;0iFE@Fi2
+Z48 V[ZS3Hc;Oj[KD[7>QAiK=S1
+R4
+w1687960870
+Z49 8C:/Users/AMIRHOSSEIN/Desktop/proj/TB_LDC.v
+Z50 FC:/Users/AMIRHOSSEIN/Desktop/proj/TB_LDC.v
+L0 1
+R9
+r1
+!s85 0
+31
+!s108 1687960920.661000
+!s107 C:/Users/AMIRHOSSEIN/Desktop/proj/TB_LDC.v|
+Z51 !s90 -reportprogress|300|-work|work|C:/Users/AMIRHOSSEIN/Desktop/proj/TB_LDC.v|
+!s101 -O0
+R13
+Z52 n@t@b_@l@d@c
+vTriState
+Z53 !s100 CgeN:Ggcgk>RW[=dmF7<j1
+Z54 Ifm<cNVYY1FLDnfAEOcYzK0
+Z55 Vc<eE1DzZV_jlb:[`0a`7F3
+R4
+R5
+R6
+R7
+L0 79
+R9
+r1
+31
+R10
+R11
+R12
+R13
+Z56 n@tri@state
+!i10b 1
+!s85 0
+!s101 -O0

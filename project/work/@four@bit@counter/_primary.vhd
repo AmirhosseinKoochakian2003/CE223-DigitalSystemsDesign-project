@@ -1,0 +1,12 @@
+library verilog;
+use verilog.vl_types.all;
+entity FourBitCounter is
+    port(
+        clk             : in     vl_logic;
+        load            : in     vl_logic;
+        reset           : in     vl_logic;
+        inc             : in     vl_logic;
+        \in\            : in     vl_logic_vector(3 downto 0);
+        \out\           : out    vl_logic_vector(3 downto 0)
+    );
+end FourBitCounter;
