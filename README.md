@@ -1,2 +1,2 @@
-# Digital Systems Design
+# Lateral Distance Calculator
 This project focuses on the importance of fast trigonometric calculations in various applications, such as signal processing, routing, vector computations, and mechanical systems. Specifically, it addresses the design of a digital system that calculates the longitudinal distance covered by a missile within a unit of time based on its current speed and angle relative to the horizon. The system utilizes sensors, including LIDAR for detecting obstacle distances, to make informed decisions and prevent collisions. Overall, the project aims to optimize hardware resources and achieve accurate and efficient computations.
